@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: 深蓝之海
 subtitle:
 description:
 keywords:
@@ -13,7 +13,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: https://lliuming.github.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -55,7 +55,7 @@ index_generator:
   
 # Category & Tag
 default_category: uncategorized
-category_map:
+category_map: 
 tag_map:
 
 # Date / Time format
