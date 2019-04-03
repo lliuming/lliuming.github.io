@@ -152,5 +152,35 @@ npm update -g
 npm uninstall -g <package-name>
 ```
 
+### 创建node.js模块
+
+[https://www.npmjs.cn/getting-started/creating-node-modules/](创建node.js模块)
+
+### npm脚本
+
+在**package.json**文件里面，使用`scripts`字段定义脚本的命令
+
+```json
+{
+    "scripts": {
+        "build": "vue-cli-service build"
+    }
+}
+```
+
+使用`npm run <script-name>` 命令运行执行脚本
+
+```shell
+npm run build 
+```
+
+查看当前项目的所有脚本命令：
+
+```shell
+npm run
+```
+
+
+
 
 
