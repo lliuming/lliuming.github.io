@@ -92,8 +92,7 @@ if (true) {
 
 ### horizontal dividing line
 
-'*' or '-' more than three
-
+'*' or '-' more than three 
 
 ```text
 ***
